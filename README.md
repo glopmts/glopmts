@@ -29,11 +29,11 @@
 
 ###
 
-<p align="left">Programando desde 2023<br><br>- Desenvolvendo por rob</p>
+<p align="left">- Programando desde 2023<br>- Desenvolvendo por rob <br> - Curto desenvolvimento de jogos</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens mais utilizada</h3>
 
 ###
 
