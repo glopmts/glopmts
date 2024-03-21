@@ -1,5 +1,5 @@
 ### Ola, sou Matias mais conhecido como glopmts, criador de conteúdo!
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gopmts=anuraghazra&hide_progress=true)
 #
 
 <div style="display: inline_block"><br>
