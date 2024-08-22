@@ -3,4 +3,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopmts&show_icons=true&theme=transparent)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopmts)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gopmts)](https://github.com/gopmts/github-readme-stats)
