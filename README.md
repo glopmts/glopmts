@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens mais utilizada</h3>
+<h3 align="left">🛠 Linguagens mais utilizada e Editores</h3>
 
 ###
 
