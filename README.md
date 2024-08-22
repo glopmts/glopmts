@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76141&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Developing+both+front-end+and+back-end+solutions)](https://git.io/typing-svg)
-
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVrY2Z5bmR6eHU5ZmkyaGNxdXF0bm5kdGhxZ3cwZHU4dWtybm9rNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif"  />
 </div>
@@ -61,9 +58,3 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-
-<a href="https://github.com/gopmts/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gopmts" />
-</a>
-
