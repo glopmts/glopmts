@@ -54,4 +54,4 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopmts&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopmts&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopmts&show_icons=true&theme=radical)
