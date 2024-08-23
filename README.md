@@ -53,3 +53,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gopmts&hide=javascript,html)
