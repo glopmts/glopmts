@@ -65,6 +65,6 @@
 <h3 align="left">📈 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?gopmts-github&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?gopmts-github&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?gopmts&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?gopmts&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </div>
