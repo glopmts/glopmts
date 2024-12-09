@@ -60,12 +60,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
 
-###
-
-<h3 align="left">📈 GitHub Stats</h3>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopmts&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopmts&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</div>
