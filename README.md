@@ -4,7 +4,9 @@
 
 ###
 
-<h4 align="left">👩‍💻 Sobre Mim<br>- 🚀 Programando desde 2023<br>- 👾 Desenvolvendo por diversão<br>- 🎮 Apaixonado por desenvolvimento de jogos<br>- 🔥 Buscando sempre aprender novas tecnologias</h4>
+## 💻 Full Stack Developer | Web & Mobile Specialist
+
+Passionate developer creating seamless experiences across web and mobile platforms. I transform ideas into elegant, functional applications using modern technologies and best practices.
 
 ###
 
