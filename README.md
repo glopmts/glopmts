@@ -30,6 +30,16 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=glopmts&show_icons=true&theme=react" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glopmts&theme=react" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopmts&layout=compact&theme=react" alt="Top Languages" />
+</div>
+
+---
+
 <div align="center">
   <a href="https://www.youtube.com/@glopmts" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
