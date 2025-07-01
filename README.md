@@ -35,16 +35,16 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,bootstrap" alt="Frontend Skills" />
 
 ### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,django,graphql,prisma,supabase" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,graphql,prisma,supabase" alt="Backend Skills" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,aws,vercel,docker" alt="Database & Cloud Skills" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,aws,vercel,docker" alt="Database & Cloud Skills" />
 
 ### 🔧 Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,bash,vim" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" alt="Tools" />
 
 ### 📱 Mobile Development
-<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode" alt="Mobile Skills" />
+<img src="https://skillicons.dev/icons?i=react" alt="Mobile Skills" />
 
 </div>
 
@@ -79,5 +79,5 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glopmts&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/glopmts/your-project-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glopmts&repo=backend-exemple-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/glopmts/your-project-1)
 [![Readme Card](https://github-readme-stat
