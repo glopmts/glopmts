@@ -72,12 +72,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=glopmts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glopmts&repo=backend-exemple-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/glopmts/backend-exemple)
-[![Readme Card](https://github-readme-stat
