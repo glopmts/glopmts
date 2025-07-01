@@ -1,61 +1,83 @@
 <div align="center">
-  <img height="200" src="https://k75mjkjgco.ufs.sh/f/wiGIa3OsPCpWj09sAwJLi64Lg32nVGCY7UQb1JzRhlBaxeTD"  />
-</div>
-
-###
-
-## 💻 Full Stack Developer | Web & Mobile Specialist
-
-Passionate developer creating seamless experiences across web and mobile platforms. I transform ideas into elegant, functional applications using modern technologies and best practices.
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-    <img src="https://camo.githubusercontent.com/0b4755e880f1861f30060ff4f7b032bd8aad2979a029318536ed54045e441ea9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6e6578746a732f6e6578746a732d6f726967696e616c2e737667" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=glopmts&show_icons=true&theme=react" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glopmts&theme=react" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopmts&layout=compact&theme=react" alt="Top Languages" />
+  <img height="200" src="https://k75mjkjgco.ufs.sh/f/wiGIa3OsPCpWj09sAwJLi64Lg32nVGCY7UQb1JzRhlBaxeTD" alt="Profile Image" />
+  
+  # 👋 Hello, I'm a Full Stack Developer!
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;Always+learning+new+things;Creating+amazing+experiences" alt="Typing SVG" />
+  </p>
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=glopmts&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/glopmts)
+  [![GitHub followers](https://img.shields.io/github/followers/glopmts?label=Followers&style=social)](https://github.com/glopmts?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/glopmts?label=Stars&style=social)](https://github.com/glopmts)
 </div>
 
 ---
 
+## 🚀 About Me
+
+> **Passionate developer creating seamless experiences across web and mobile platforms.**  
+> I transform ideas into elegant, functional applications using modern technologies and best practices.
+
+- 🔭 Currently working on **Full Stack Web Applications**
+- 🌱 Learning **Advanced React Patterns & Cloud Architecture**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Next.js, Node.js, and Mobile Development**
+- ⚡ Fun fact: **I love turning coffee into code!** ☕
+
+---
+
+## 🛠️ Tech Stack & Tools
+
 <div align="center">
-  <h1>Social media</h1>
-  <a href="https://www.youtube.com/@glopmts" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/glopmts" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/glopmts" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/fBnmtcHY" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,bootstrap" alt="Frontend Skills" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi,django,graphql,prisma,supabase" alt="Backend Skills" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,firebase,aws,vercel,docker" alt="Database & Cloud Skills" />
+
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,bash,vim" alt="Tools" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,xcode" alt="Mobile Skills" />
+
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glopmts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glopmts&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glopmts&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=glopmts&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=glopmts&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=glopmts&repo=your-project-1&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/glopmts/your-project-1)
+[![Readme Card](https://github-readme-stat
