@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+%26+Mobile+Specialist;Always+learning+new+things;Creating+amazing+experiences" alt="Typing SVG" />
   </p>
   
-  [![Profile Views](https://komarev.com/ghpvc/?username=glopmts&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/glopmts)
   [![GitHub followers](https://img.shields.io/github/followers/glopmts?label=Followers&style=social)](https://github.com/glopmts?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/glopmts?label=Stars&style=social)](https://github.com/glopmts)
 </div>
