@@ -1,73 +1,94 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
+
 <div align="center">
-  
-  # 👋 Olá, sou Matias
-  
-  ### 🚀 Desenvolvedor Full Stack | Especialista Web & Mobile
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Transformo+ideias+em+aplicações+eficientes;+Experiências+digitais+fluidase+perfomáticas;+Sempre+aprendendo+%26+evoluindo" alt="Typing SVG" />
-  </p>
-  
-  [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-00D9FF?style=flat-square)](https://portifolio-app-delta.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0077B5?style=flat-square)]([https://linkedin.com/in/seuperfil](https://www.linkedin.com/in/antonio-matias-52695a28a/))
-  [![Email](https://img.shields.io/badge/📧-Contato-D14836?style=flat-square)](mailto:sglopmtscomercial@gmail.com)
+
+# 👋 Hey, I'm Matias
+
+### 🚀 Full Stack Developer · Web & Mobile
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Turning+ideas+into+efficient+applications;Crafting+fluid+%26+performant+digital+experiences;Always+learning+%26+leveling+up" alt="Typing SVG" />
+</p>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&labelColor=111)](https://portifolio-app-delta.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&labelColor=111)](https://www.linkedin.com/in/antonio-matias-52695a28a/)
+[![Email](https://img.shields.io/badge/📧_Contact-D14836?style=flat-square&labelColor=111)](mailto:sglopmtscomercial@gmail.com)
 
 </div>
 
 ---
 
-## 📌 Sobre Mim
+## 📌 About Me
 
-Sou desenvolvedor full stack com foco em criar **soluções escaláveis** e **experiências de usuário excepcionais**. Minha abordagem combina código limpo, boas práticas e atenção aos detalhes.
+I'm a full stack developer focused on building **scalable solutions** and **exceptional user experiences**. My approach blends clean code, solid engineering practices, and sharp attention to detail.
 
-- 🔭 **Atualmente:** Desenvolvendo aplicações web/mobile com React, Next.js e Node.js
-- 🌱 **Aprendendo:** Arquitetura cloud (AWS/GCP) e otimização de performance
-- 🎯 **Foco:** Clean code, testes automatizados e UX/UI de qualidade
-- 💡 **Interesses:** Open source, ferramentas de produtividade, design systems
+- 🔭 **Currently:** Developing web/mobile applications with React, Next.js and Node.js
+- 🌱 **Learning:** Cloud architecture (AWS/GCP) and performance optimization
+- 🎯 **Focus:** Clean code, automated testing, and high-quality UX/UI
+- 💡 **Interests:** Open source, productivity tooling, and design systems
 
 ---
 
-## 🛠️ Stack Principal
+## 🛠️ Tech Stack
 
 ### **Frontend & Mobile**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css)
 
-### **Backend & Banco de Dados**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+### **Backend & Databases**
 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-## 📂 Projetos em Destaque
+### **Tools & DevOps**
 
-| Projeto | Tecnologias | Descrição |
-|---------|------------|-----------|
-| **[https://my-finance-pi-jade.vercel.app]** | React, Node.js, PostgreSQL | Sistema completo com autenticação, dashboard e API REST |
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-> Veja mais em [Repositórios Públicos](https://github.com/glopmts?tab=repositories)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=glopmts&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| **[MyFinance](https://my-finance-pi-jade.vercel.app)** | React · Node.js · PostgreSQL | Full-featured personal finance app with authentication, dashboard and REST API |
+
+> Browse more on my [Public Repositories](https://github.com/glopmts?tab=repositories) →
 
 ---
 
 <div align="center">
 
-  ### 📫 Vamos conversar!
-  
-  **"Código bem escrito é a melhor documentação."** - Steve McConnell
-  
-  [![GitHub](https://img.shields.io/badge/💻-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/glopmts)
-  [![LinkedIn](https://img.shields.io/badge/👔-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antonio-matias-52695a28a)
-  [![Twitter](https://img.shields.io/badge/🐦-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/glopmts)
+### 📫 Let's connect!
 
-  ⭐ **Dica:** Dê uma olhada nos meus repositros fixados para ver meus melhores projetos!
+**"Well-written code is the best documentation."** — Steve McConnell
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glopmts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-matias-52695a28a)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glopmts)
+
+<br/>
+
+⭐ **Tip:** Check out my pinned repositories to see my best work!
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=80&section=footer"/>
