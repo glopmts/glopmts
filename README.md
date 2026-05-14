@@ -67,7 +67,7 @@ I'm a full stack developer focused on building **scalable solutions** and **exce
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| **[MyFinance](https://my-finance-pi-jade.vercel.app)** | React · Node.js · PostgreSQL | Full-featured personal finance app with authentication, dashboard and REST API |
+
 
 > Browse more on my [Public Repositories](https://github.com/glopmts?tab=repositories) →
 
