@@ -20,8 +20,6 @@
 
 ## 📌 About Me
 
-I'm a full stack developer focused on building **scalable solutions** and **exceptional user experiences**. My approach blends clean code, solid engineering practices, and sharp attention to detail.
-
 - 🔭 **Currently:** Developing web/mobile applications with React, Next.js and Node.js
 - 🌱 **Learning:** Cloud architecture (AWS/GCP) and performance optimization
 - 🎯 **Focus:** Clean code, automated testing, and high-quality UX/UI
