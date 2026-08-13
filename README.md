@@ -11,8 +11,6 @@
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&labelColor=111)](https://www.matiasdev.com.br)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=flat-square&labelColor=111)](https://www.linkedin.com/in/antonio-matias-52695a28a/)
-[![Email](https://img.shields.io/badge/📧_Contact-D14836?style=flat-square&labelColor=111)](mailto:sglopmtscomercial@gmail.com)
 
 </div>
 
@@ -67,7 +65,7 @@
 |---------|-------|-------------|
 
 
-> Browse more on my [Public Repositories](https://github.com/glopmts?tab=repositories) →
+> Browse more on my [Public Repositories](https://github.com/lopmts?tab=repositories) →
 
 ---
 
@@ -79,9 +77,8 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/glopmts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-matias-52695a28a)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glopmts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lopmts)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lopmts)
 
 <br/>
 
